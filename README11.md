@@ -1,3 +1,6 @@
+
+
+
 ADDED the docker command
 
 1)build the docker using gradle
