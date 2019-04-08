@@ -1,9 +1,10 @@
 
-#####ADDED the docker command
+## ADDED the docker command
 
-####1) Build the docker using gradle
+#### 1) Build the docker using gradle
 
 sudo ./gradlew build docker
+
 sudo docker build -F <docker file> -t <docker image>
 
 ####2)Show the docker image in docker registery
