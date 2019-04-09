@@ -9,8 +9,10 @@
 ##### sudo ./gradlew build docker
 
 ###### sudo docker build -F <docker file> -t <docker image>
+##### push the docker image to ECS regitory
+##### docker tag imagefile:latest hostname of docker registory/imagefile:latest
 
-####2)Show the docker image in docker registery
+#### 2)Show the docker image in docker registery
 
 sudo docker images
 
