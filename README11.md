@@ -1,6 +1,9 @@
 
 ## ADDED the docker command
 
+### Check the docker service satus
+### sudo service docker status
+
 #### 1) Build the docker using gradle
 
 ##### sudo ./gradlew build docker
